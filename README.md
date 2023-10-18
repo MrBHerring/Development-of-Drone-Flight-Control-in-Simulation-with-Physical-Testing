@@ -63,6 +63,19 @@ Bryce (estimated contribution 40%)  has installed two programs called airsim and
 
 Edward (estimated contribution 30%) Edward has worked with 3D objects quite extensively on Blender. Providing the group with solutions to technical difficulties with importing 3D objects into Unreal Engine, Preparing solar cells and searching for 3D flat surfaces for use in Unreal Engine. He has also worked with Bryce to solve any benchmarks that were preventing the project from moving forward and overall has provided a support role in keeping the team productive and on task
 
+<p align="center">
+<a href="https://drive.google.com/file/d/1wWsVRvRrFm2lyHQq6viSwlh3MQm3uC9C/view">One Drone Simulation</a>: <br/>
+<img src="https://imgur.com/5KtcqV2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
+<p align="center">
+<a href="https://broncosuncfsu-my.sharepoint.com/personal/bherring2_broncos_uncfsu_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbherring2%5Fbroncos%5Funcfsu%5Fedu%2FDocuments%2FSpring%202023%2FCSC%20490%2Ffinal%20project%20videos%2FSixDroneDetect%2Emp4&ga=1">Six Drone Simulation</a>: <br/>
+<img src="https://imgur.com/9uiJ2Pm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
 
 Citations
 For Airsim/Unreal
@@ -79,17 +92,7 @@ https://www.youtube.com/watch?v=vfEGrqRmrAk&ab_channel=AnnexedGames
 https://www.youtube.com/watch?v=FsV3ZUxmWLo&ab_channel=GorkaGames
 
 
-<p align="center">
-<a href="https://drive.google.com/file/d/1wWsVRvRrFm2lyHQq6viSwlh3MQm3uC9C/view">One Drone Simulation</a>: <br/>
-<img src="https://imgur.com/5KtcqV2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
-
-
-<p align="center">
-<a href="https://broncosuncfsu-my.sharepoint.com/personal/bherring2_broncos_uncfsu_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbherring2%5Fbroncos%5Funcfsu%5Fedu%2FDocuments%2FSpring%202023%2FCSC%20490%2Ffinal%20project%20videos%2FSixDroneDetect%2Emp4&ga=1">Six Drone Simulation</a>: <br/>
-<img src="https://imgur.com/9uiJ2Pm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
 
 
